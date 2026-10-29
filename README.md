@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF7F&center=true&vCenter=true&width=700&lines=%24+whoami;%24+Aspiring+AI%2FML+Engineer;%24+Learning+Python+%26+C;%24+Exploring+Artificial+Intelligence;%24+Building+My+Developer+Journey...%22
+https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF7F&center=true&vCenter=true&width=700&lines=%24+whoami;%24+Aspiring+AI%2FML+Engineer;%24+Learning+Python+%26+C;%24+Exploring+Artificial+Intelligence;%24+Building+My+Developer+Journey...
 │  HUMAlRA AFSHEEN                                          │
 │  BTech Student | Artificial Intelligence & Machine       │
 │  Learning                                                 │
