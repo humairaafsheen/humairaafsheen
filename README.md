@@ -97,6 +97,7 @@ https://github.com/humairaafsheen
 *Statistics are generated from publicly available GitHub data and depend on the external service being available.*
 
 ## `06 // contribution_engine`
+https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
