@@ -1,138 +1,239 @@
+# 💜 Humaira Afsheen
 
-│  HUMAlRA AFSHEEN                                          │
-│  BTech Student | Artificial Intelligence & Machine       │
-│  Learning                                                 │
-│                                                          │
-│  $ whoami                                                 │
-│  humairaafsheen                                           │
-│                                                          │
-│  $ cat /about/me                                          │
-│  A student learning to build, experiment, and grow        │
-│  through programming and intelligent technologies.        │
-│                                                          │
-│  $ echo $MISSION                                          │
-│  Learn deeply. Build purposefully. Keep improving.        │
-└──────────────────────────────────────────────────────────┘
+<h3 align="center">Aspiring AI/ML Developer | Programmer | Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello%2C+Welcome+to+my+GitHub!+%F0%9F%91%8B;Aspiring+AI%2FML+Developer+%F0%9F%A4%96;Exploring+Python+and+Machine+Learning;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-AI%2FML%20DEVELOPER-7C3AED?style=for-the-badge&labelColor=0B1120"/>
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-8B5CF6?style=for-the-badge&labelColor=0B1120"/>
+</p>
+
+---
+
+## 👩🏻‍💻 WHO AM I?
+
+```python
+class HumairaAfsheen:
+
+    def __init__(self):
+        self.name = "Humaira Afsheen"
+        self.username = "humairaafsheen"
+        self.role = "Aspiring AI/ML Developer"
+
+        self.technologies = [
+            "Python",
+            "C",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Programming",
+            "Web Development"
+        ]
+
+        self.current_focus = [
+            "Improving programming fundamentals",
+            "Exploring Python",
+            "Learning Machine Learning"
+        ]
+
+        self.motto = "Learn. Build. Improve."
+
+    def introduce(self):
+        print("Welcome to my coding journey! 💜")
 
 
-
-
-## `01 // identity.conf`
-
-```yaml
-name: Humaira Afsheen
-username: humairaafsheen
-education: BTech - Artificial Intelligence and Machine Learning
-role: Student and Learner
-career_goal: Aspiring AI/ML Engineer
-
-currently_learning:
-  - Python
-  - Machine Learning fundamentals
-
-programming:
-  - C
-  - HTML
-  - CSS
-  - JavaScript
-
-mindset: Curiosity-driven development
+me = HumairaAfsheen()
+me.introduce()
 ```
 
-## `02 // system_stack`
+## ✨ ABOUT ME
+
+  <i>Exploring the possibilities of technology, one line of code at a time.</i>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%" style="border: 2px solid #7C3AED; border-radius: 15px; background-color: #0B1120;">
+
+<h2>💜 WHO AM I?</h2>
+
+<h2>Hey, I'm Humaira Afsheen! 👋</h2>
+
+<h3>Aspiring AI/ML Upcoming Engineer | Curious Mind | Future Innovator</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=39FF14" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-LEARNING-0A0A0A?style=flat-square&logo=python&logoColor=3776AB" alt="Python learning"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-EXPLORING-0A0A0A?style=flat-square" alt="Machine Learning learning"/>
+I'm an aspiring <b>AI/ML Engineer</b> with a strong interest in programming and intelligent technologies. I'm passionate about understanding how algorithms work, developing problem-solving skills, and exploring how machine learning can transform ideas into practical solutions.
 </p>
 
-## `03 // repository_index`
+<p>
+My goal is to build a strong foundation in software development, artificial intelligence, and machine learning while continuously growing into an engineer who creates technology with purpose.
+</p>
 
-```bash
-$ ls ./projects
+<h3>✨ LEARN • BUILD • INNOVATE ✨</h3>
 
-PPS-LAB/
-└── Programming lab work and practice
+</td>
+</tr>
+</table>
 
-C--programming--HackerRank/
-└── C programming exercises and problem solving
-```
+</div>
 
-- **[PPS-LAB](https://github.com/humairaafsheen/PPS-LAB)** — programming lab repository.
-- **[C--programming--HackerRank](https://github.com/humairaafsheen/C--programming--HackerRank)** — C programming practice.
 
-```bash
-$ git remote -v
-https://github.com/humairaafsheen
-```
-
-## `04 // development.log`
-
-```text
-[ACTIVE]   Strengthening programming fundamentals
-[ACTIVE]   Practising C and web technologies
-[LEARNING] Python programming
-[EXPLORING] Machine Learning fundamentals
-[PLANNED]  Build more practical projects
-[LONG-TERM] Grow into an AI/ML engineer
-```
-
-## `05 // live_metrics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humairaafsheen&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" alt="GitHub profile statistics"/>
+  <img src="https://img.shields.io/badge/THINK-0B1120?style=for-the-badge&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/CODE-4C1D95?style=for-the-badge&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/INNOVATE-7C3AED?style=for-the-badge&logoColor=FFFFFF"/>
+</p>
+### ⚡ My Current Toolkit
+
+- 🐍 **Python & C** — Programming fundamentals
+- 🌐 **HTML, CSS & JavaScript** — Web development
+- 🧠 **AI & Machine Learning** — Areas I'm excited to explore
+<!-- Animated signature tagline -->
+
+
+### 🚀 What Drives Me?
+
+Curiosity to learn, courage to experiment, and consistency to improve.
+
+<p align="center">
+  <b>"Not just writing code, but building the mindset to create something meaningful."</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairaafsheen&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="GitHub language statistics"/>
+  💜 LEARN &nbsp;•&nbsp; EXPLORE &nbsp;•&nbsp; CREATE &nbsp;•&nbsp; REPEAT
 </p>
 
-*Statistics are generated from publicly available GitHub data and depend on the external service being available.*
+---
 
-## `06 // contribution_engine`
-https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg
+---
+
+## ⚡ TECHNOLOGIES & TOOLS
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+### Areas of Interest
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&labelColor=0B1120"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&labelColor=0B1120"/>
+</p>
+
+---
+
+## 🚀 MY PROJECTS
+
+I enjoy learning by experimenting, practicing, and building.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+  <a href="https://github.com/humairaafsheen?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
+  </a>
 </p>
 
-## `07 // core_principles`
+Explore my public repositories to see my programming practice and development journey.
 
-```text
-> Stay curious.
-> Learn before claiming expertise.
-> Practise through real code.
-> Treat mistakes as feedback.
-> Improve one step at a time.
-> Build things that have a purpose.
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=humairaafsheen&show_icons=true&theme=tokyonight&bg_color=0B1120&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairaafsheen&layout=compact&theme=tokyonight&bg_color=0B1120&title_color=A78BFA&text_color=E2E8F0&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="65%" src="https://streak-stats.demolab.com?user=humairaafsheen&theme=tokyonight&background=0B1120&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E2E8F0&border=312E81" alt="Contribution streak"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+</p>
+
+---
+
+## 🌱 CURRENT LEARNING JOURNEY
+
+- 🔹 Strengthening Python programming.
+- 🔹 Practicing C programming.
+- 🔹 Exploring web development.
+- 🔹 Understanding Machine Learning fundamentals.
+- 🔹 Improving problem-solving skills.
+- 🔹 Building a stronger developer portfolio.
+
+---
+
+## 💭 MY MINDSET
+
+```javascript
+const myJourney = {
+    mindset: "Never stop learning",
+    passion: "Programming and technology",
+    process: [
+        "Learn",
+        "Practice",
+        "Build",
+        "Improve"
+    ],
+    goal: "Grow into a skilled AI/ML Developer"
+};
+
+console.log("The journey has just begun! 💜");
 ```
 
-## `08 // final_message`
+---
+---
 
-```bash
-$ echo "My mission"
-Learn. Build. Experiment. Improve.
+## 💭 A THOUGHT THAT INSPIRES ME
 
-$ echo "My strongest belief"
-I don't need to know everything today.
-I need to keep learning and building toward tomorrow.
+<p align="center">
+  <h3>
+    "I may not know everything today, but every line of code I write brings me one step closer to the developer I dream of becoming."
+  </h3>
+  <i>— Humaira Afsheen 💜</i>
+</p>
 
-$ status
-STILL_LEARNING // STILL_BUILDING // NEVER_STANDING_STILL
-```
+<p align="center">
+  ✨ Stay curious. Keep learning. Never stop growing. ✨
+</p>
+
+---
+## 🤝 LET'S CONNECT
 
 <p align="center">
   <a href="https://github.com/humairaafsheen">
-    <img src="https://img.shields.io/badge/ACCESS_PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Visit GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW%20MY%20JOURNEY-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Humaira Afsheen — building my future, one line of code at a time.</i>
+  <b> . LEARN • CREATE • EXPLORE • GROW 💜</b>
 </p>
 
-
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day. ✨</i>
+</p>
