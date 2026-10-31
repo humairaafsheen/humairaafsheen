@@ -189,16 +189,44 @@ Explore my public repositories to see my programming practice and development jo
 </p>
 
 
-## 🌱 CURRENT LEARNING JOURNEY
 
-- 🔹 Strengthening Python programming.
-- 🔹 Practicing C programming.
-- 🔹 Exploring web development.
-- 🔹 Understanding Machine Learning fundamentals.
-- 🔹 Improving problem-solving skills.
-- 🔹 Building a stronger developer portfolio.
 
----
+<h2 align="center">✦ CURRENTLY EXPLORING ✦</h2>
+
+<p align="center">
+  <i>Learning • Experimenting • Evolving</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Programming%20%26%20Logic-C4B5FD?style=for-the-badge&labelColor=0B1120" alt="Programming and Logic"/>
+</p>
+<p align="center">
+  <sub>Python · C · Problem Solving</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/02-Artificial%20Intelligence-D8B4FE?style=for-the-badge&labelColor=211047" alt="Artificial Intelligence"/>
+</p>
+<p align="center">
+  <sub>AI Concepts · Machine Learning Fundamentals</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/03-Web%20Development-BB9AF7?style=for-the-badge&labelColor=0B1120" alt="Web Development"/>
+</p>
+<p align="center">
+  <sub>HTML · CSS · JavaScript</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ALWAYS-KEEP%20LEARNING-C4B5FD?style=flat-square&labelColor=211047" alt="Always Keep Learning"/>
+</p>
+
+<p align="center">
+  <i>「 Small steps today. Intelligent creations tomorrow. 」</i>
+  <br/>
+  ✧ 💜 ✧
+</p>
 
 ## 💭 MY MINDSET
 
