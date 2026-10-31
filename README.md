@@ -167,21 +167,18 @@ Explore my public repositories to see my programming practice and development jo
 </p>
 
 
+
+  
 <h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg" />
-    <img
-      src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg"
-      alt="Humaira's GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg"
+    alt="Humaira's Purple GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
+
 
 ## 🌱 CURRENT LEARNING JOURNEY
 
