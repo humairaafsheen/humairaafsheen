@@ -166,15 +166,22 @@ Explore my public repositories to see my programming practice and development jo
   <img width="65%" src="https://streak-stats.demolab.com?user=humairaafsheen&theme=tokyonight&background=0B1120&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E2E8F0&border=312E81" alt="Contribution streak"/>
 </p>
 
----
 
-## 🐍 CONTRIBUTION SNAKE
+<h2 align="center">🐍 MY CONTRIBUTION JOURNEY</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg" />
+    <img
+      src="https://raw.githubusercontent.com/humairaafsheen/humairaafsheen/output/github-snake.svg"
+      alt="Humaira's GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
-
----
 
 ## 🌱 CURRENT LEARNING JOURNEY
 
