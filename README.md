@@ -279,18 +279,33 @@ console.log("The journey has just begun! ");
 ---
 ---
 
-## 💭 A THOUGHT THAT INSPIRES ME
 
 <p align="center">
-  <h3>
-    "I may not know everything today, but every line of code I write brings me one step closer to the developer I dream of becoming."
-  </h3>
-  <i>— Humaira Afsheen 💜</i>
+  <img src="https://img.shields.io/badge/✦_MY_GUIDING_THOUGHT_✦-C4B5FD?style=for-the-badge&labelColor=211047" alt="My Guiding Thought"/>
 </p>
 
 <p align="center">
-  ✨ Stay curious. Keep learning. Never stop growing. ✨
+  <i>
+    <b>
+      <span style="color:#C4B5FD;">
+        Turning logic into intelligence,
+      </span>
+      <br/>
+      <span style="color:#D8B4FE;">
+        ideas into innovation,
+      </span>
+      <br/>
+      <span style="color:#E9D5FF;">
+        and code into meaningful solutions.
+      </span>
+    </b>
+  </i>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✧_DREAM._CREATE._INNOVATE._✧-211047?style=flat-square&labelColor=8B5CF6" alt="Dream Create Innovate"/>
+</p>
+
 
 ---
 ## 🤝 LET'S CONNECT
