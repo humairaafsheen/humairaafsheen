@@ -155,16 +155,22 @@ Explore my public repositories to see my programming practice and development jo
 
 ---
 
-## 📊 GITHUB ANALYTICS
+
+
+<h2 align="center">📊 MY GITHUB JOURNEY</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=humairaafsheen&show_icons=true&theme=tokyonight&bg_color=0B1120&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairaafsheen&layout=compact&theme=tokyonight&bg_color=0B1120&title_color=A78BFA&text_color=E2E8F0&hide_border=true" alt="Top languages"/>
+  <img
+    src="https://streak-stats.demolab.com?user=humairaafsheen&theme=transparent&hide_border=true&background=0B1120&ring=A78BFA&fire=D8B4FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="90%"
+    alt="Humaira's GitHub Contribution Streak"
+  />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=humairaafsheen&theme=tokyonight&background=0B1120&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E2E8F0&border=312E81" alt="Contribution streak"/>
+  <i>Every contribution is a step forward. Every day is an opportunity to grow. 💜</i>
 </p>
+
 
 
 
