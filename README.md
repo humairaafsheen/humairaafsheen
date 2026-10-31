@@ -119,34 +119,30 @@ Curiosity to learn, courage to experiment, and consistency to improve.
 ---
 
 
-<h2 align="center">🌌 TECHNOLOGIES & TOOLS</h2>
 
-<table width="100%" border="1" bordercolor="#7044B8" cellpadding="14" cellspacing="0">
+<h2 align="center">🌌 TECHNOLOGIES & TOOLS</h2>
+<p align="center">
+  <i>✦ My growing universe of technologies and skills ✦</i>
+</p>
+
+<table width="100%" border="1" bordercolor="#8B5CF6">
   <tr>
-    <td align="center" bgcolor="#0B1120">
-      <h3>⌘ PROGRAMMING LANGUAGES</h3>
-      <img src="https://img.shields.io/badge/Python-211047?style=for-the-badge&logo=python&logoColor=D8B4FE" alt="Python"/>
-      <img src="https://img.shields.io/badge/C-211047?style=for-the-badge&logo=c&logoColor=D8B4FE" alt="C"/>
-      <img src="https://img.shields.io/badge/JavaScript-211047?style=for-the-badge&logo=javascript&logoColor=D8B4FE" alt="JavaScript"/>
+    <td align="center">
+      <h3>💜 PROGRAMMING LANGUAGES</h3>
+      <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C and JavaScript"/>
     </td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#0B1120">
-      <h3>✧ WEB DEVELOPMENT</h3>
-      <img src="https://img.shields.io/badge/HTML5-211047?style=for-the-badge&logo=html5&logoColor=D8B4FE" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-211047?style=for-the-badge&logo=css3&logoColor=D8B4FE" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-211047?style=for-the-badge&logo=javascript&logoColor=D8B4FE" alt="JavaScript"/>
+    <td align="center">
+      <h3>✨ WEB DEVELOPMENT</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/LEARNING-AND-GROWING-A78BFA?style=flat-square&labelColor=0B1120" alt="Learning and Growing"/>
-  <br/><br/>
-  <i>✦ Turning curiosity into skills, and skills into innovation. ✦</i>
+  <i>💜 Turning curiosity into skills, and skills into innovation. 💜</i>
 </p>
-
 
 ## 🚀 MY PROJECTS
 
