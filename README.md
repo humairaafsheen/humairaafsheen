@@ -59,34 +59,39 @@ me.introduce()
   <i>Exploring the possibilities of technology, one line of code at a time.</i>
 
 
-<div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%" style="border: 2px solid #7C3AED; border-radius: 15px; background-color: #0B1120;">
+<h2 align="center">💜 WHO AM I?</h2>
 
-<h2>     WHO AM I?</h2>
-
-<h2>Hey, I'm Humaira Afsheen! 👋</h2>
-
-<h3>Aspiring AI/ML Upcoming Engineer | Curious Mind | Future Innovator</h3>
-
-<p>
-I'm an aspiring <b>AI/ML Engineer</b> with a strong interest in programming and intelligent technologies. I'm passionate about understanding how algorithms work, developing problem-solving skills, and exploring how machine learning can transform ideas into practical solutions.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=19&duration=3500&pause=1000&color=D8B4FE&center=true&vCenter=true&width=750&height=45&lines=An+Aspiring+AI%2FML+Engineer;Curious+Mind.+Creative+Thinker.+Lifelong+Learner."
+    alt="Who am I?"
+  />
 </p>
 
-<p>
-My goal is to build a strong foundation in software development, artificial intelligence, and machine learning while continuously growing into an engineer who creates technology with purpose.
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/✦%20MY%20INTRODUCTION-211047?style=for-the-badge&labelColor=5425A8"
+    alt="My Introduction"
+  />
 </p>
 
-<h3>✨ LEARN • BUILD • INNOVATE ✨</h3>
+<p align="center">
+  I'm an aspiring AI/ML Engineer with a strong interest in programming
+  and intelligent technologies. I'm passionate about understanding
+  how algorithms work, developing problem-solving skills, and exploring
+  how machine learning can transform ideas into practical solutions.
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  My goal is to build a strong foundation in software development,
+  artificial intelligence, and machine learning while continuously
+  growing into an engineer who creates technology with purpose.
+</p>
 
-</div>
-
+<p align="center">
+  <i>Turning logic into intelligence, ideas into innovation, and code into meaningful solutions.</i>
+</p>
 
 
 <p align="center">
