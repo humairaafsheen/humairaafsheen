@@ -1,14 +1,15 @@
+
 name: Generate Contribution Snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -19,20 +20,18 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake animation
+      - name: Generate Purple Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: humairaafsheen
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23A78BFA&color_dots=%230B1120,%23211047,%235425A8,%238B5CF6,%23D8B4FE
+            dist/github-snake-dark.svg?color_snake=%23C4B5FD&color_dots=%230B1120,%23211047,%235425A8,%238B5CF6,%23D8B4FE
+
+      - name: Publish Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish generated animations
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
