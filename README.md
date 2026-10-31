@@ -65,7 +65,7 @@ me.introduce()
 <tr>
 <td align="center" width="100%" style="border: 2px solid #7C3AED; border-radius: 15px; background-color: #0B1120;">
 
-<h2>💜 WHO AM I?</h2>
+<h2>     WHO AM I?</h2>
 
 <h2>Hey, I'm Humaira Afsheen! 👋</h2>
 
@@ -219,7 +219,7 @@ const myJourney = {
     goal: "Grow into a skilled AI/ML Developer"
 };
 
-console.log("The journey has just begun! 💜");
+console.log("The journey has just begun! ");
 ```
 
 ---
@@ -248,7 +248,7 @@ console.log("The journey has just begun! 💜");
 </p>
 
 <p align="center">
-  <b> . LEARN • CREATE • EXPLORE • GROW 💜</b>
+  <b>      LEARN • CREATE • EXPLORE • GROW </b>
 </p>
 
 <p align="center">
