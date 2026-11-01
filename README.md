@@ -212,42 +212,7 @@ me.introduce()
 
 
 
-<h2 align="center">✦ CURRENTLY EXPLORING ✦</h2>
 
-<p align="center">
-  <i>Learning • Experimenting • Evolving</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Programming%20%26%20Logic-C4B5FD?style=for-the-badge&labelColor=0B1120" alt="Programming and Logic"/>
-</p>
-<p align="center">
-  <sub>Python · C · Problem Solving</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/02-Artificial%20Intelligence-D8B4FE?style=for-the-badge&labelColor=211047" alt="Artificial Intelligence"/>
-</p>
-<p align="center">
-  <sub>AI Concepts · Machine Learning Fundamentals</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/03-Web%20Development-BB9AF7?style=for-the-badge&labelColor=0B1120" alt="Web Development"/>
-</p>
-<p align="center">
-  <sub>HTML · CSS · JavaScript</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ALWAYS-KEEP%20LEARNING-C4B5FD?style=flat-square&labelColor=211047" alt="Always Keep Learning"/>
-</p>
-
-<p align="center">
-  <i>「 Small steps today. Intelligent creations tomorrow. 」</i>
-  <br/>
-  ✧ 💜 ✧
-</p>
 
 ## 💭 MY MINDSET
 
@@ -271,27 +236,6 @@ console.log("The journey has just begun! ");
 ---
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✦_MY_GUIDING_THOUGHT_✦-C4B5FD?style=for-the-badge&labelColor=211047" alt="My Guiding Thought"/>
-</p>
-
-<p align="center">
-  <i>
-    <b>
-      <span style="color:#C4B5FD;">
-        Turning logic into intelligence,
-      </span>
-      <br/>
-      <span style="color:#D8B4FE;">
-        ideas into innovation,
-      </span>
-      <br/>
-      <span style="color:#E9D5FF;">
-        and code into meaningful solutions.
-      </span>
-    </b>
-  </i>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/✧_DREAM._CREATE._INNOVATE._✧-211047?style=flat-square&labelColor=8B5CF6" alt="Dream Create Innovate"/>
