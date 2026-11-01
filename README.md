@@ -113,16 +113,6 @@ me.introduce()
 
 
 
-## 🚀 MY PROJECTS
-
-I enjoy learning by experimenting, practicing, and building.
-
-<p align="center">
-  <a href="https://github.com/humairaafsheen?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
-  </a>
-</p>
-
 
 <h2 align="center">🌌 PROJECTS & REPOSITORIES</h2>
 
@@ -130,21 +120,64 @@ I enjoy learning by experimenting, practicing, and building.
   <i>Exploring ideas, writing code, and growing through practice.</i>
 </p>
 
+<br/>
+
+<!-- PROJECT 01 -->
 <p align="center">
-  <a href="https://github.com/humairaafsheen/C--programming--HackerRank">
-    <img src="https://img.shields.io/badge/C_PROGRAMMING-8B5CF6?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=211047" alt="C Programming - HackerRank"/>
-  </a>
+  <img src="https://img.shields.io/badge/01-C_PROGRAMMING-211047?style=for-the-badge&labelColor=C4B5FD" alt="Project 1"/>
+</p>
+
+<h3 align="center">✧ C Programming | HackerRank ✧</h3>
+
+<p align="center">
+  A collection of C programming solutions and HackerRank practice
+  challenges focused on strengthening programming fundamentals,
+  logical thinking, and problem-solving skills.
 </p>
 
 <p align="center">
-  <b>✧ C Programming | HackerRank ✧</b>
-  <br/>
-  <sub>
-    A collection of C programming solutions and HackerRank
-    practice challenges focused on strengthening programming
-    fundamentals, logical thinking, and problem-solving skills.
-  </sub>
-  <br/><br/>
+  <a href="https://github.com/humairaafsheen/C--programming--HackerRank">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=211047" alt="View C Programming Repository"/>
+  </a>
+</p>
+
+<br/>
+<hr/>
+
+<!-- PROJECT 02 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/02-PPS_LAB-211047?style=for-the-badge&labelColor=C4B5FD" alt="Project 2"/>
+</p>
+
+<h3 align="center">✧ Programming for Problem Solving | Lab ✧</h3>
+
+<p align="center">
+  A collection of Programming for Problem Solving lab exercises
+  and practical implementations, focused on developing logical
+  thinking and programming skills.
+</p>
+
+<p align="center">
+  <a href="https://github.com/humairaafsheen/PPS-LAB">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=211047" alt="View PPS Lab Repository"/>
+  </a>
+</p>
+
+<br/>
+<hr/>
+
+<!-- GITHUB PROFILE -->
+<h2 align="center">✦ EXPLORE MY GITHUB ✦</h2>
+
+<p align="center">
+  <i>Every repository tells a story of learning, creativity and growth.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/humairaafsheen">
+    <img src="https://img.shields.io/badge/VISIT_MY_GITHUB-C4B5FD?style=for-the-badge&logo=github&logoColor=white&labelColor=211047" alt="Visit My GitHub"/>
+  </a>
+</p>
 
 
 
