@@ -1,17 +1,20 @@
-# 💜 Humaira Afsheen
 
-<h3 align="center">Aspiring AI/ML Developer | Programmer | Lifelong Learner</h3>
+<h1 align="center">Hi, I'm Humaira Afsheen 👋</h1>
+
+<h3 align="center">
+  Aspiring AI/ML Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello%2C+Welcome+to+my+GitHub!+%F0%9F%91%8B;Aspiring+AI%2FML+Developer+%F0%9F%A4%96;Exploring+Python+and+Machine+Learning;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80" alt="Typing animation"/>
+  Learning • Coding • Creating
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE-AI%2FML%20DEVELOPER-7C3AED?style=for-the-badge&labelColor=0B1120"/>
-  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-8B5CF6?style=for-the-badge&labelColor=0B1120"/>
+  💜 Python • C • HTML • CSS • JavaScript
 </p>
 
 ---
+
 
 ## 👩🏻‍💻 WHO AM I?
 
