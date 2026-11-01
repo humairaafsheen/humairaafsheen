@@ -83,11 +83,7 @@ me.introduce()
   how machine learning can transform ideas into practical solutions.
 </p>
 
-<p align="center">
-  My goal is to build a strong foundation in software development,
-  artificial intelligence, and machine learning while continuously
-  growing into an engineer who creates technology with purpose.
-</p>
+
 
 <p align="center">
   <i>Turning logic into intelligence, ideas into innovation, and code into meaningful solutions.</i>
