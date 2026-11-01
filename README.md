@@ -150,29 +150,6 @@ me.introduce()
 
 
 
-<h2 align="center">🌌 TECHNOLOGIES & TOOLS</h2>
-<p align="center">
-  <i>✦ My growing universe of technologies and skills ✦</i>
-</p>
-
-<table width="100%" border="1" bordercolor="#8B5CF6">
-  <tr>
-    <td align="center">
-      <h3>💜 PROGRAMMING LANGUAGES</h3>
-      <img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C and JavaScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>✨ WEB DEVELOPMENT</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>💜 Turning curiosity into skills, and skills into innovation. 💜</i>
-</p>
 
 ## 🚀 MY PROJECTS
 
