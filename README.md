@@ -145,14 +145,7 @@ I enjoy learning by experimenting, practicing, and building.
     fundamentals, logical thinking, and problem-solving skills.
   </sub>
   <br/><br/>
-  <a href="https://github.com/humairaafsheen/C--programming--HackerRank">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-C4B5FD?style=flat-square&labelColor=211047" alt="View Repository"/>
-  </a>
-</p>
 
-<p align="center">
-  <i>✦ Every line of code is a step towards growth. ✦</i>
-</p>
 
 
 
