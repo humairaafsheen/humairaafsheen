@@ -161,9 +161,36 @@ I enjoy learning by experimenting, practicing, and building.
   </a>
 </p>
 
-Explore my public repositories to see my programming practice and development journey.
 
----
+<h2 align="center">🌌 PROJECTS & REPOSITORIES</h2>
+
+<p align="center">
+  <i>Exploring ideas, writing code, and growing through practice.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/humairaafsheen/C--programming--HackerRank">
+    <img src="https://img.shields.io/badge/C_PROGRAMMING-8B5CF6?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=211047" alt="C Programming - HackerRank"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>✧ C Programming | HackerRank ✧</b>
+  <br/>
+  <sub>
+    A collection of C programming solutions and HackerRank
+    practice challenges focused on strengthening programming
+    fundamentals, logical thinking, and problem-solving skills.
+  </sub>
+  <br/><br/>
+  <a href="https://github.com/humairaafsheen/C--programming--HackerRank">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-C4B5FD?style=flat-square&labelColor=211047" alt="View Repository"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✦ Every line of code is a step towards growth. ✦</i>
+</p>
 
 
 
