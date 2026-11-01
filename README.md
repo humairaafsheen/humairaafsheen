@@ -108,45 +108,7 @@ me.introduce()
 
 
 
-<h2 align="center">💜 WHAT DRIVES ME</h2>
 
-<p align="center">
-  <i>A curious mind. A limitless journey.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✧_CURIOSITY-211047?style=for-the-badge&labelColor=C4B5FD" alt="Curiosity"/>
-  <br/>
-  <sub>Exploring the unknown and discovering new possibilities.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⌘_PROBLEM_SOLVING-211047?style=for-the-badge&labelColor=C4B5FD" alt="Problem Solving"/>
-  <br/>
-  <sub>Turning challenges into opportunities through logical thinking.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✦_CONTINUOUS_LEARNING-211047?style=for-the-badge&labelColor=C4B5FD" alt="Continuous Learning"/>
-  <br/>
-  <sub>Growing through every lesson, experiment and experience.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_INNOVATION-211047?style=for-the-badge&labelColor=C4B5FD" alt="Innovation"/>
-  <br/>
-  <sub>Transforming creative ideas into meaningful solutions.</sub>
-</p>
-
-<p align="center">
-  <i>"Driven by curiosity, inspired by possibilities, powered by innovation."</i>
-  <br/>
-  
-  <img src="https://img.shields.io/badge/KEEP%20GROWING-D8B4FE?style=flat-square&labelColor=211047" alt="Keep Growing"/>
-  
-</p>
-
----
 
 
 
