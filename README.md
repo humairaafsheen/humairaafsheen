@@ -258,3 +258,23 @@ console.log("The journey has just begun! ");
 <p align="center">
   <i>Thanks for visiting my profile! Have a great day. ✨</i>
 </p>
+
+<h2 align="center">🌌 Let's Connect & Grow Together</h2>
+
+<p align="center">
+  <i>Have an idea, opportunity, or just want to connect? Feel free to reach out!</i>
+</p>
+
+<p align="center">
+  <a href="mailto:humairaafsheen3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-humairaafsheen3@gmail.com-9B72CF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/humairaafsheen">
+    <img src="https://img.shields.io/badge/GitHub-humairaafsheen-29234D?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Let's collaborate, innovate, and build something meaningful!</i>
+</p>
